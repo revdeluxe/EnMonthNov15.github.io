@@ -1,0 +1,36 @@
+h1 {
+	font-family: Calibri;
+	font-size: 250%;
+	text-align:center;
+}
+h2 {
+	font-family: Calibri;
+	font-size: 180%;
+	text-align:center;
+}
+h3 {
+	font-family: Calibri;
+	font-size: 60%;
+	text-align:right;
+}
+h4 {
+	font-family: Calibri;
+	font-size: 60%;
+	text-align:left;
+}
+body {
+	background-color:#FFE5B4;	
+	margin-left: 40px;
+	margin-right: 60px;
+}
+p.Finewriter {
+	font-family: Calibri;
+	font-size: 160%;
+	text-align:center;
+}
+iframe.dashed {
+	position:absolute;
+	border:dashed;
+	height: 100%;
+	width: 95%;
+}
