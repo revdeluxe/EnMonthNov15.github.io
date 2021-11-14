@@ -8,6 +8,11 @@ h2 {
 	font-size: 180%;
 	text-align:center;
 }
+h2.Quote {
+	font-family: Calibri;
+	font-size: 220%;
+	text-align: Center;
+}
 h3 {
 	font-family: Calibri;
 	font-size: 60%;
